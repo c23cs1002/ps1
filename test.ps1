@@ -16,7 +16,7 @@ param(
   [string]$SMTPHost = "smtp.gmail.com",
   [int]   $SMTPPort = 587,
   [string]$Username = "robinetpetitjeanabsp@gmail.com",
-  [string]$Password = "osgctfxhyaqotytl"
+  [string]$Password = "qmlldkzqrsyriiqe"
 )
 
 try {
